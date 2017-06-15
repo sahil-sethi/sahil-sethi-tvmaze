@@ -1,0 +1,45 @@
+body {
+	background-color: lightgrey;
+}
+
+p {
+    display: inline;
+}
+
+.well {
+    display: inline-block;
+}
+
+.bold-title {
+    font-weight: bold;
+}
+
+img {
+    width: 20%;
+    border-left: 1px solid darkgrey;
+    padding-left: 15px;
+}
+
+.summary {
+    width: 75%;
+    clear: left;
+    text-align: justify;
+    font-size: 1em;
+}
+
+strong {
+    font-weight: normal;
+}
+
+.glyphicon {
+	margin-left: 5px;
+    color: black;
+}
+
+.label {
+    margin-left: 5px;
+}
+
+.label:hover {
+    background-color: orange;
+}
